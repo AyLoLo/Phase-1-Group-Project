@@ -8,8 +8,13 @@ body {
     margin-left:auto;
 }
 
-.icon {
-    width:30px;
+.icon1 {
+    width:200px;
+    height:100px;
+    vertical-align: middle;
+}
+.icon2 {
+    width:200px;
     height:auto;
     vertical-align: middle;
 }
@@ -21,40 +26,40 @@ body {
     margin: 20px 0px 20px 0px;
 }
 
-#movie-list {
+#character-list {
     display:flex;
     justify-content: center;
 }
 
-#movie-list img {
+#character-list img {
     width: 100px;
     height: auto;
     margin: 7px;
 }
 
-#movie-list img:hover {
+#character-list img:hover {
     filter: drop-shadow(0 0 0.75rem white)
 }
 
-#movie-info {
+#character-info {
     display: flex;
     height: 400px;
     justify-content: center;
     margin-top: 25px;
 }
 
-#movie-info img {
+#character-info img {
     height: auto;
     margin: 7px;
     filter: drop-shadow(0 0 1em #c93642)
 }
 
-#movie-info div {
+#character-info div {
     width: 500px;
     margin-left: 20px;
 }
 
-#movie-info div p {
+#character-info div p {
     font-family: 'Nanum Gothic', sans-serif;
 }
 
