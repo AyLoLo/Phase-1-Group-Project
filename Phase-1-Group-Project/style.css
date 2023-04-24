@@ -33,8 +33,10 @@ body {
 
 #character-list img {
     width: 100px;
-    height: auto;
-    margin: 7px;
+    height: 100px;
+    margin: auto;
+    object-fit: cover;
+    float: left;
 }
 
 #character-list img:hover {
@@ -64,10 +66,11 @@ body {
 }
 
 form {
-    width:200px;
+    width:400px;
+    
 }
 
-button {
+#love {
     border: 0;
     width:200px;
     color: black;
@@ -76,6 +79,20 @@ button {
     border-radius: 5px;
     font-size: 20px;
     font-family: 'Bebas Neue', cursive;
+    display: inline;
+    text-align: center;
+}
+#hate {
+    border: 0;
+    width:200px;
+    color: black;
+    background: white; 
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+    display: inline;
+    text-align: center;
 }
 
 input[type=text] {
@@ -103,4 +120,18 @@ input[type=submit] {
     font-family: 'Bebas Neue', cursive;
     box-sizing: border-box;
     margin-top: 10px;
+}
+
+#User-Comment {
+    font-size: 20px;
+    margin-top: 5px;
+    padding-top: 5px;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    height: 50px;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    cursor: pointer;
+    font-family: fantasy;
 }

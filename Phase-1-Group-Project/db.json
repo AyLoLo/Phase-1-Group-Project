@@ -6,7 +6,7 @@
     "title":"Mother of Dragons",
     "family":"House Targaryen",
     "image":"daenerys.jpg",
-    "imageUrl":"https://thronesapi.com/assets/images/daenerys.jpg"
+    "imageUrl":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/daenarys-1920.jpg?w=1200"
     },
 
     {"id":1,
@@ -14,7 +14,7 @@
     "title":"King of the North",
     "family":"House Stark",
     "image":"jon-snow.jpg",
-    "imageUrl":"https://thronesapi.com/assets/images/jon-snow.jpg"
+    "imageUrl":"https://tvline.com/wp-content/uploads/2016/02/game-of-thrones-jon-snow.jpg"
     },
     
     {"id":2,
@@ -22,7 +22,7 @@
     "title":"Lady of Winterfell",
     "family":"House Stark",
     "image":"sansa-stark.jpeg",
-    "imageUrl":"https://thronesapi.com/assets/images/sansa-stark.jpeg"
+    "imageUrl":"https://www.hollywoodreporter.com/wp-content/uploads/2019/02/game_of_thrones-publicity_still_11-h_2019_.jpg?w=1296"
     },
     
     {"id":3,
@@ -30,15 +30,15 @@
     "title":"Lord Commander of the Kingsguard",
     "family":"House Lannister",
     "image":"jaime-lannister.jpg",
-    "imageUrl":"https://thronesapi.com/assets/images/jaime-lannister.jpg"
+    "imageUrl":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/26/10/game-of-thrones-jaime-lannister.jpg?quality=75&width=1200&auto=webp"
     },
     
     {"id":4,
     "fullName":"Cersei Lannister",
-    "title":"Lady of Casterly Rock",
+    "title":"Queen Regent",
     "family":"House Lannister",
     "image":"cersei.jpg",
-    "imageUrl":"https://thronesapi.com/assets/images/cersei.jpg"
+    "imageUrl":"https://pyxis.nymag.com/v1/imgs/9eb/c1a/a838f7bffb25ed90a376864c85ae94c578-14-cersei-lannister.rsquare.w700.jpg"
     },
     
     {"id":5,
@@ -46,7 +46,7 @@
     "title":"Hand of the Queen",
     "family":"House Lanister",
     "image":"tyrion-lannister.jpg",
-    "imageUrl":"https://thronesapi.com/assets/images/tyrion-lannister.jpg"
+    "imageUrl":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/Tyrion-Lannister.Game-of-Thrones.webp"
     },
 
     {"id":6,
@@ -54,7 +54,7 @@
     "title":"Khal",
     "family":"House Targaryen",
     "image":"khal-drogo.jpg",
-    "imageUrl":"https://thronesapi.com/assets/images/khal-drogo.jpg"
+    "imageUrl":"https://media1.popsugar-assets.com/files/thumbor/FGpBgLujX2Atq_L5xynTIeAVmpk/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2016/03/04/929/n/1922283/01ccd12b_edit_img_image_40443412_1457121065_728/i/Hot-Khal-Drogo-GIFs.jpg"
     },
 
     {"id":7,
@@ -62,7 +62,7 @@
     "title":"Queen of the Seven Kingdoms",
     "family":"House Tyrell",
     "image":"margaery-tyrell.jpg",
-    "imageUrl":"https://thronesapi.com/assets/images/margaery-tyrell.jpg"
+    "imageUrl":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/margarey-tyrell-1920.jpg"
     },
 
     {"id":8,
@@ -70,7 +70,7 @@
     "title":"Queen's Personal Advisor",
     "family":"Naathi",
     "image":"missandei.jpeg",
-    "imageUrl":"https://thronesapi.com/assets/images/missandei.jpeg"
+    "imageUrl":"https://img.buzzfeed.com/buzzfeed-static/static/2017-08/17/16/campaign_images/buzzfeed-prod-fastlane-01/how-missandei-became-one-of-the-most-powerful-wom-2-28698-1503001393-5_dblbig.jpg?resize=1200:*"
     },
 
     {"id":9,
@@ -78,7 +78,7 @@
     "title":"Red Viper of Dorne",
     "family":"Viper",
     "image":"red-viper.jpg",
-    "imageUrl":"https://thronesapi.com/assets/images/red-viper.jpg"
+    "imageUrl":"https://tv-fanatic-res.cloudinary.com/iu/s--mBBd3tTw--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1401302077/prince-oberyn-martell.jpg"
     }
 
 ]}
