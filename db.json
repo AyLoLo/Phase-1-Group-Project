@@ -1,12 +1,14 @@
 {
     "Characters":[
-         
+
     {"id":0,
     "fullName":"Daenerys Targaryen",
     "title":"Mother of Dragons",
     "family":"House Targaryen",
     "image":"daenerys.jpg",
-    "imageUrl":"https://thronesapi.com/assets/images/daenerys.jpg"
+    "imageUrl":"https://thronesapi.com/assets/images/daenerys.jpg",
+    "quote":"The next time you raise a hand to me will be the last time you have hands.",
+    "comments":"I admire how she never gives up."
     },
 
     {"id":1,
@@ -16,9 +18,12 @@
     "title":"King of the North",
     "family":"House Stark",
     "image":"jon-snow.jpg",
-    "imageUrl":"https://thronesapi.com/assets/images/jon-snow.jpg"
+    "imageUrl":"https://thronesapi.com/assets/images/jon-snow.jpg",
+    "quote":"With respect, Your Grace, I don't need your permission. I am a king.",
+    "comments": "He's so humble!"
+
     },
-    
+
     {"id":2,
     "firstName":"Sansa",
     "lastName":"Stark",
@@ -26,9 +31,12 @@
     "title":"Lady of Winterfell",
     "family":"House Stark",
     "image":"sansa-stark.jpeg",
-    "imageUrl":"https://thronesapi.com/assets/images/sansa-stark.jpeg"
+    "imageUrl":"https://thronesapi.com/assets/images/sansa-stark.jpeg",
+    "quote":"When the snows fall and the white winds blow, the lone wolf dies, but the pack survives.",
+    "comments":"Her kindess is only skin deep."
+
     },
-    
+
     {"id":3,
     "firstName":"Jamie",
     "lastName":"Lannister",
@@ -36,9 +44,11 @@
     "title":"Lord Commander of the Kingsguard",
     "family":"House Lannister",
     "image":"jaime-lannister.jpg",
-    "imageUrl":"https://thronesapi.com/assets/images/jaime-lannister.jpg"
+    "imageUrl":"https://thronesapi.com/assets/images/jaime-lannister.jpg",
+    "quote":"People have been swinging at me for years, but they always seem to miss...",
+    "comments":"He is refreshingly honest."
     },
-    
+
     {"id":4,
     "firstName":"Cersei",
     "lastName":"Lannister",
@@ -46,9 +56,11 @@
     "title":"Lady of Casterly Rock",
     "family":"House Lannister",
     "image":"cersei.jpg",
-    "imageUrl":"https://thronesapi.com/assets/images/cersei.jpg"
+    "imageUrl":"https://thronesapi.com/assets/images/cersei.jpg",
+    "quote":"People will whisper. They'll make their jokes. Let them. They're so small, I can't even see them.",
+    "comments":"Malevolent and always scheming but she was so enjoyable to watch."
     },
-    
+
     {"id":5,
     "firstName":"Tyrion",
     "lastName":"Lannister",
@@ -56,7 +68,9 @@
     "title":"Hand of the Queen",
     "family":"House Lanister",
     "image":"tyrion-lannister.jpg",
-    "imageUrl":"https://thronesapi.com/assets/images/tyrion-lannister.jpg"
+    "imageUrl":"https://thronesapi.com/assets/images/tyrion-lannister.jpg",
+    "quote":"Once you/ve accepted your flaws, no one can use them against you.",
+    "comments":"Maaaaaan, he should have been king."
     },
 
     {"id":6,
@@ -66,7 +80,9 @@
     "title":"Khal",
     "family":"House Targaryen",
     "image":"khal-drogo.jpg",
-    "imageUrl":"https://thronesapi.com/assets/images/khal-drogo.jpg"
+    "imageUrl":"https://thronesapi.com/assets/images/khal-drogo.jpg",
+    "quote":"A crown for a king.",
+    "comments":"Most definitely not a good guy."
     },
 
     {"id":7,
@@ -76,7 +92,9 @@
     "title":"Queen of the Seven Kingdoms",
     "family":"House Tyrell",
     "image":"margaery-tyrell.jpg",
-    "imageUrl":"https://thronesapi.com/assets/images/margaery-tyrell.jpg"
+    "imageUrl":"https://thronesapi.com/assets/images/margaery-tyrell.jpg",
+    "quote":"I've had lots of time to think about how good I was At seeming good.",
+    "comments":"She's intelligent, amiable, witty, manipulative, ambitious, and pragmatic."
     },
 
     {"id":8,
@@ -86,16 +104,22 @@
     "title":"Queen's Personal Advisor",
     "family":"Naathi",
     "image":"missandei.jpeg",
-    "imageUrl":"https://thronesapi.com/assets/images/missandei.jpeg"
+    "imageUrl":"https://thronesapi.com/assets/images/missandei.jpeg",
+    "quote":"I have seen you ignore your counselors because there was a better choice.",
+    "comments": "Love, love, love, love her!"
+
     },
 
-    {"id":9,"firstName":"Oberyn",
+    {"id":9,
+    "firstName":"Oberyn",
     "lastName":"Martell",
     "fullName":"Oberyn Martell",
     "title":"Red Viper of Dorne",
     "family":"Viper",
     "image":"red-viper.jpg",
-    "imageUrl":"https://thronesapi.com/assets/images/red-viper.jpg"
+    "imageUrl":"https://thronesapi.com/assets/images/red-viper.jpg",
+    "quote":"When it comes to war, I fight for Dorne. When it comes to love... I don't choose sides.",
+    "comments": "Best. Father. Figure."
     }
 
 ]}
